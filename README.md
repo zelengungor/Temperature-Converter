@@ -1,7 +1,7 @@
 # Temperature-Converter
 
 This is a simple Java Swing-based GUI application for converting temperatures between Celsius, Fahrenheit, and Kelvin. The application includes a graphical interface with input fields, radio buttons, and buttons for temperature conversion.
-![Screen_Shot_2024-01-11_at_5 53 54_AM-removebg-preview](https://github.com/zelengungor/Temperature-Converter/assets/80821262/355d8185-5638-4541-8f3b-debaa9a1b7fd)
+![converterImage](https://github.com/zelengungor/Temperature-Converter/assets/80821262/b5f25a65-286c-4b18-a293-4c2536d420ad)
 ## Instructions
 
 Follow these steps to run the Temperature Converter GUI:
